@@ -1,3 +1,2 @@
 npm --version
-apt update 
 
